@@ -2,6 +2,8 @@
 
 Welcome to **TextMagic**—an intuitive, real-time Markdown editor and preview tool! Create and format your content effortlessly. 🖊️
 
+![textMarkDown](https://github.com/user-attachments/assets/0cd8768c-bca1-4b19-998a-0a819374cbc5)
+
 
 ## 🚀 Features
 
